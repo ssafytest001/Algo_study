@@ -7,4 +7,5 @@
 |<center>문제</center>|<center>ssafytest001</center>|-|-|-|   
 |:---:|:---:|:---:|:---:|:---:|   
 |<center>나는 친구가 적다 (Small)</center>|-|-|-|-|   
+|<center>그룹 단어 체커</center>|-|-|-|-|   
 ---   
