@@ -6,6 +6,6 @@
 1 회차 : 2022-05-19 ~ 2022-05-20   
 |<center>문제</center>|<center>ssafytest001</center>|-|-|-|   
 |:---:|:---:|:---:|:---:|:---:|   
-|<center>나는 친구가 적다 (Small)</center>|-|-|-|-|   
+|<center>나는 친구가 적다 (Small)</center>|[Main_나는친구가적다_김유진](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4%20%28Small%29/ssafytest001/Main_%EB%82%98%EB%8A%94%EC%B9%9C%EA%B5%AC%EA%B0%80%EC%A0%81%EB%8B%A4_%EA%B9%80%EC%9C%A0%EC%A7%84.java)|-|-|-|   
 |<center>그룹 단어 체커</center>|-|-|-|-|   
 ---   
