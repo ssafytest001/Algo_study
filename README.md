@@ -8,5 +8,5 @@
 |:---:|:---:|:---:|:---:|:---:|   
 |<center>나는 친구가 적다 (Small)</center>|[Main_나는친구가적다_김유진](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4%20%28Small%29/ssafytest001/Main_%EB%82%98%EB%8A%94%EC%B9%9C%EA%B5%AC%EA%B0%80%EC%A0%81%EB%8B%A4_%EA%B9%80%EC%9C%A0%EC%A7%84.java)|-|-|-|   
 |<center>그룹 단어 체커</center>|[Main_그룹단어체커_김유진](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%EA%B7%B8%EB%A3%B9%20%EB%8B%A8%EC%96%B4%20%EC%B2%B4%EC%BB%A4/ssafytest001/Main_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4_%EA%B9%80%EC%9C%A0%EC%A7%84.java)|-|-|-|   
-|<center>폴리오미노</center>|-|-|-|-|   
+|<center>폴리오미노</center>|[Main_폴리오미노_김유진](%ED%92%80%EC%9D%B4%EB%AA%A8%EC%9D%8C/%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8/ssafytest001/Main_%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8_%EA%B9%80%EC%9C%A0%EC%A7%84.java)|-|-|-|   
 ---   
